@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MLModel1_WebApi2.props" />
+</Project>
